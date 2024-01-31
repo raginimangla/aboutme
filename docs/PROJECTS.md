@@ -15,13 +15,15 @@ nav_order: 2
 
 Below is a summary of some of my main projects that I have done over the years. This includes my experience as a Senior Technical Writer with Oracle, working on the Oracle Primavera Cloud application, and my experience as an Instructional Designer developing training materials for enterprise resource planning (ERP) and non-ERP systems.
 
-## **User Documentation**
+## **Technical Writing**
+
+### **User Documentation**
 
 As a technical writer in the Construction and Engineering (C&E) documentation team, I create and update user documentation for the new features that are developed and released each month.
 
 **Project Link:** [Oracle Primavera Cloud Documentation](https://docs.oracle.com/cd/E80480_01/index.htm#t87921)
 
-## **Administration Guides**
+### **Administration Guides**
 
 **Context:** I played a pivotal role in enhancing the Oracle Primavera Cloud administration guides. Primavera Cloud is a cloud-based enterprise application for construction project management. Upon joining, the application's administration guide was rudimentary. Given the centrality of application administration, my task was not only to document new features but also to improve existing content. I created quick-reference topics for the application administrators to define the configuration workflow and their tasks within the application. This helped reduce the administration related support tickets by at least 20%.
 
