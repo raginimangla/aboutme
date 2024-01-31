@@ -1,5 +1,7 @@
 ---
-id: about-me
+layout: default
+title: About Me
+nav_order: 1
 ---
 
 # **About Me**
