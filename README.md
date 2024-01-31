@@ -4,6 +4,8 @@ title: Read Me
 nav_exclude: true
 ---
 
+This is the github repository for my [github site](https://raginimangla.github.io/aboutme/)
+
 # About Me
 
 ![Ragini Mangla](./docs/assets/ragini.jpg){: width="250"}
