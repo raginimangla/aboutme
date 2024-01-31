@@ -29,12 +29,12 @@ As a technical writer in the Construction and Engineering documentation team, I 
 
 My contributions to the project include the following:
 
-* Created the Getting Started workflow topic -[ https://docs.oracle.com/cd/E80480_01/207895.htm#t213289](https://docs.oracle.com/cd/E80480_01/207895.htm#t213289)
-* Documented the configuration workflow for application administrators:[https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/89152.htm#t8915](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/89152.htm#t89152)
-* Defined the application administrator permissions sets within the application:[ https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/99154.htm#subhead_applicationadministratorprivil8](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/99154.htm#subhead_applicationadministratorprivil8)
+* Created the [Getting Started workflow ](https://docs.oracle.com/cd/E80480_01/207895.htm#t213289) topic.
+* Documented the [configuration workflow](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/89152.htm#t89152) for application administrators.
+* Defined the [application administrator permissions sets](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/99154.htm#subhead_applicationadministratorprivil8) within the application
 * Added integration and import sections
-  * Integration -[https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/139515.htm#t139515](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/139515.htm#t139515)
-    * Import -[https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/186815.htm#t186815](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/186815.htm#t186815)
+  * [Integration](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/139515.htm#t139515)
+    * [Import](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/186815.htm#t186815)
 * Add content for new features and find areas of improvement for existing content
 
 ### **API Documentation**
@@ -59,10 +59,10 @@ My contributions to the project include the following:
 
 **Project Links:**
 
-* Plug-in (Zapier Integration):[https://docs.oracle.com/cd/E80480_01/English/integration/primavera_cloud_integration_using_zapier/index.htm#t248665](https://docs.oracle.com/cd/E80480_01/English/integration/primavera_cloud_integration_using_zapier/index.htm#t248665)
-* Adapter/Connector Integration Guides:[https://docs.oracle.com/en/industries/construction-engineering/smart-construction-platform/integration-documentation.html](https://docs.oracle.com/en/industries/construction-engineering/smart-construction-platform/integration-documentation.html)
-* Recipes (Prebuilt integration workflows):[https://docs.oracle.com/en/industries/construction-engineering/smart-construction-platform/integration-documentation.html](https://docs.oracle.com/en/industries/construction-engineering/smart-construction-platform/integration-documentation.html)
-* Integration through PlMS (Project Integration Management System):[https://docs.oracle.com/cd/E80480_01/English/integration/primavera_cloud_integration_overview/index.htm#t175519](https://docs.oracle.com/cd/E80480_01/English/integration/primavera_cloud_integration_overview/index.htm#t175519)
+* [Plug-in (Zapier Integration)](https://docs.oracle.com/cd/E80480_01/English/integration/primavera_cloud_integration_using_zapier/index.htm#t248665)
+* [Adapter/Connector Integration Guides](https://docs.oracle.com/en/industries/construction-engineering/smart-construction-platform/integration-documentation.html)
+* [Recipes (Prebuilt integration workflows)](https://docs.oracle.com/en/industries/construction-engineering/smart-construction-platform/integration-documentation.html)
+* [Integration through PlMS (Project Integration Management System)](https://docs.oracle.com/cd/E80480_01/English/integration/primavera_cloud_integration_overview/index.htm#t175519)
 
 **Contributions**:
 
@@ -76,7 +76,7 @@ My contributions to the project include the following:
 
 **Context:** Context-sensitive help documentation is available from a help panel inside the Primavera Cloud application.
 
-**Project Link:**[ https://docs.oracle.com/cd/E80480_01/87926.htm#t87926](https://docs.oracle.com/cd/E80480_01/87926.htm#t87926)
+[Project Link](https://docs.oracle.com/cd/E80480_01/87926.htm#t87926)
 
 **Contribution:**
 
