@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About Me
-nav_order: 1
+title: Read Me
+nav_exclude: true
 ---
 
 # About Me
