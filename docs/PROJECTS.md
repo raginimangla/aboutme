@@ -13,17 +13,19 @@ nav_order: 2
 1. TOC
 {:toc}
 
-Below is a summary of some of my main projects that I have done over the years. This includes my experience as a Senior Technical Writer with Oracle, working on the Oracle Primavera Cloud application, and my experience as an Instructional Designer developing training materials for mainly ERP systems.
+Below is a summary of some of my main projects that I have done over the years. This includes my experience as a Senior Technical Writer with Oracle, working on the Oracle Primavera Cloud application, and my experience as an Instructional Designer developing training materials for enterprise resource planning (ERP) and non-ERP systems.
 
 ## **User Documentation**
 
-As a technical writer in the Construction and Engineering (C&E) documentation team, I write and update user documentation for the new features that are developed each release.
+As a technical writer in the Construction and Engineering (C&E) documentation team, I create and update user documentation for the new features that are developed and released each month.
+
+**Project Link:** [Oracle Primavera Cloud Documentation](https://docs.oracle.com/cd/E80480_01/index.htm#t87921)
 
 ## **Administration Guides**
 
 **Context:** I played a pivotal role in enhancing the Oracle Primavera Cloud administration guides. Primavera Cloud is a cloud-based enterprise application for construction project management. Upon joining, the application's administration guide was rudimentary. Given the centrality of application administration, my task was not only to document new features but also to improve existing content. I created quick-reference topics for the application administrators to define the configuration workflow and their tasks within the application. This helped reduce the administration related support tickets by at least 20%.
 
-**Project Link**: [Oracle Primavera Cloud Application Administration Guide](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/index.html)
+**Project Link:** [Oracle Primavera Cloud Application Administration Guide](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/index.html)
 
 **Contributions**:
 
@@ -41,7 +43,7 @@ My contributions to the project included the following:
 
 **Context:** The API documentation for Primavera Cloud includes API references guides for REST and GraphQL APIs. It also includes Get Started content, which is  written and managed by the documentation writer. The API reference part of the guides is jointly owned and managed by the technical writer and the developers.
 
-**Project Link**:  [Oracle Primavera Cloud REST API Documentation](https://docs.oracle.com/cd/E80480_01/English/integration/primavera_rest_api/index.html)
+**Project Link:**  [Oracle Primavera Cloud REST API Documentation](https://docs.oracle.com/cd/E80480_01/English/integration/primavera_rest_api/index.html)
 
 **Contributions:**
 
@@ -55,7 +57,7 @@ My contributions to the project include the following:
 
 ### **Integration Documentation**
 
-**Context:** Primavera Cloud integrates with Oracle and third-party applications using APIs, PIMS, plug-ins, or prebuilt connectors and recipes. I have been working on the integration documentation since the very beginning and have seen several changes to the integration strategy which required creating documentation from scratch. I write the integration documentation for the prebuilt adapters/connectors and recipes for the Construction & Engineering suite of products. I also created documentation for the Zapier plug-in for Primavera Cloud.
+**Context:** Primavera Cloud integrates with Oracle and third-party applications using APIs, PIMS, plug-ins, or prebuilt connectors and recipes. I have been working on the integration documentation since the very beginning and have seen several changes to the integration strategy which required creating documentation from scratch. I write the integration documentation for the prebuilt adapters/connectors and recipes for the C&E suite of products. I also created documentation for the Zapier plug-in for Primavera Cloud.
 
 **Project Links:**
 
@@ -76,7 +78,7 @@ My contributions to the project include the following:
 
 **Context:** Context-sensitive help documentation is available from a help panel inside the Primavera Cloud application.
 
-**Project Link**: [Primavera Cloud In-app Help](https://docs.oracle.com/cd/E80480_01/87926.htm#t87926)
+**Project Link:** [Primavera Cloud In-app Help](https://docs.oracle.com/cd/E80480_01/87926.htm#t87926)
 
 **Contributions:**
 
@@ -101,9 +103,9 @@ My contributions to the project include the following:
 
 ### **Analytics**
 
-**Context:** The documentation team within the Construction and Engineering (C&E) division hosts its product documentation on Oracle Help Center. Utilizing Adobe Analytics, the team systematically gathers metrics related to documentation usage and popularity. These metrics play a pivotal role in shaping the content strategy of the team.
+**Context:** The documentation team within the C&E division hosts its product documentation on Oracle Help Center. Utilizing Adobe Analytics, the team systematically gathers metrics related to documentation usage and popularity. These metrics play a pivotal role in shaping the content strategy of the team.
 
-**Contribution:** I am responsible for the development and upkeep of documentation analytics reports for the Construction and Engineering documentation libraries hosted on the Oracle Help Center. These metrics serve as instrumental tools for writers and documentation managers, offering valuable insights into the performance of the individual documents. The data derived from these reports plays a crucial role in informing strategic decisions related to documentation, allowing team leads to formulate effective strategies for their respective teams.
+**Contribution:** I am responsible for the development and upkeep of documentation analytics reports for the C&E documentation libraries hosted on the Oracle Help Center. These metrics serve as instrumental tools for writers and documentation managers, offering valuable insights into the performance of the individual documents. The data derived from these reports plays a crucial role in informing strategic decisions related to documentation, allowing team leads to formulate effective strategies for their respective teams.
 
 ## **Instructional Design**
 
