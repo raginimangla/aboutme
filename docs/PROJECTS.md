@@ -34,7 +34,7 @@ My contributions to the project include the following:
 * Defined the [application administrator permissions sets](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/99154.htm#subhead_applicationadministratorprivil8) within the application
 * Added integration and import sections
   * [Integration](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/139515.htm#t139515)
-    * [Import](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/186815.htm#t186815)
+  * [Import](https://docs.oracle.com/cd/E80480_01/English/admin/app_admin_guide/186815.htm#t186815)
 * Add content for new features and find areas of improvement for existing content
 
 ### **API Documentation**
