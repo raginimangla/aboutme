@@ -5,6 +5,13 @@ nav_order: 2
 ---
 
 # **Projects**
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 Below is a summary of some of my main projects that I have done over the years. This includes my experience as a Senior Technical Writer with Oracle, working on the Oracle Primavera Cloud application, and my experience as an Instructional Designer developing training materials for mainly ERP systems.
 
