@@ -6,11 +6,9 @@ nav_order: 1
 
 # About Me
 
-<div style="width: 80%;">
-  <img src="./assets/ragini.jpg" alt="Ragini Image" style="object-fit: cover;>
-</div>
+![Ragini Mangla](./assets/ragini.jpg)
+{: .sm}
 
-<br>
 I’m a technical writer with 10+ years of experience crafting software documentation and courseware, specializing in ERP and large-scale cloud-based solutions. Proficient in developing user and API documentation, including REST and GraphQL APIs. Familiar with structured authoring and DITA concepts. Hands-on experience using authoring tools such as Oxygen XML Editor and Author It. Experienced in navigating agile environments (SAFe 6.0), closely collaborating with development teams throughout the development cycle. Passionate about content strategy and leveraging the power of documentation to advocate for the users.
 
 ## Skills
