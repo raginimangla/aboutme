@@ -10,7 +10,7 @@ This is the github repository for my [github site](https://raginimangla.github.i
 
 ![Ragini Mangla](./docs/assets/ragini.jpg){: width="250"}
 
-With over over a decade of experience as a technical writer, I bring a wealth of expertise in crafting software documentation and courseware, specializing in ERP and large-scale cloud-based solutions. Proficient in developing user and API documentation, including REST and GraphQL APIs. Familiar with structured authoring and DITA concepts. Hands-on experience using authoring tools such as Oxygen XML Editor and Author It. Experienced in navigating agile environments (SAFe 6.0), closely collaborating with development teams throughout the development cycle. Passionate about content strategy and leveraging the power of documentation to advocate for the users.
+Hi, My name is Ragini (pronounced: RA-GYI-NEE). I have over 10 years of technical writing and instructional design experience, I specialize in crafting clear and comprehensive documentation for SaaS applications. Proficient in both end-user and developer documentation, I leverage structured authoring and DITA concepts for consistency. Skilled in authoring tools like Oxygen XML Editor and version management using Git/GitHub. Experienced in agile environments, I collaborate closely with development teams to deliver high-quality documentation on time. My commitment to excellence and adaptability makes me a valuable asset in any technical writing role.
 
 ## Skills
 
