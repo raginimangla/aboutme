@@ -13,7 +13,7 @@ nav_order: 2
 1. TOC
 {:toc}
 
-Below is a summary of some of my main projects that I have done over the years. This includes my experience as a Senior Technical Writer with Oracle, working on the Oracle Primavera Cloud application, and my experience as an Instructional Designer developing training materials for enterprise resource planning (ERP) and non-ERP systems.
+Below is a summary of some of my main projects that I have done over the years. This includes my experience as a technical writer and an instructional dsigner.
 
 ## **Technical Writing**
 
@@ -43,6 +43,8 @@ My contributions to the project included the following:
 
 ### **API Documentation**
 
+#### Oracle Primavera Cloud REST API Documentation
+
 **Context:** The API documentation for Primavera Cloud includes API references guides for REST and GraphQL APIs. It also includes Get Started content, which is  written and managed by the documentation writer. The API reference part of the guides is jointly owned and managed by the technical writer and the developers.
 
 **Project Link:**  [Oracle Primavera Cloud REST API Documentation](https://docs.oracle.com/cd/E80480_01/English/integration/primavera_rest_api/index.html)
@@ -56,6 +58,20 @@ My contributions to the project include the following:
 * Collaborate with the API developmeny team to update the JSON file each release.
 * Review or update sample code.
 * Publish API reference information using the Swagger API.
+
+#### API Documentation for a Mock Service
+
+**Context:** I recently completed a **certificate course in API Documentation from University of Washington, Seattle**. As part of the course, I worked on two mock API services:
+* **Powder Alert Service** - This service alerts ski enthusiasts to fresh "powder" (snow) at nearby mountain resorts.
+* **To-Do Service** - This service enables users to manage their to-do lists.
+
+My projects included several API documentation artefacts, including Overview, Installation and QuickStart, API endpoint reference, and tutorials. Sample documentation from each category is listed below:
+
+**Powder Alert Service** 
+* Overview [https://raginimangla.github.io/ski-powder-alert-service/]
+* QuickStart/Get Started [https://raginimangla.github.io/ski-powder-alert-service/quick-start]
+* Endpoint Reference [https://raginimangla.github.io/ski-powder-alert-service/api/user-pa]
+* Tutorials [https://raginimangla.github.io/ski-powder-alert-service/tutorials/manage-alerts]
 
 ### **Integration Documentation**
 
