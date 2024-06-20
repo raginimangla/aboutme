@@ -8,16 +8,8 @@ nav_order: 1
 
 ![Ragini Mangla](./docs/assets/ragini.jpg){: width="250"}
 
-With over over a decade of experience as a technical writer, I bring a wealth of expertise in crafting software documentation and courseware, specializing in ERP and large-scale cloud-based solutions. Proficient in developing user and API documentation, including REST and GraphQL APIs. Familiar with structured authoring and DITA concepts. Hands-on experience using authoring tools such as Oxygen XML Editor and Author It. Experienced in navigating agile environments (SAFe 6.0), closely collaborating with development teams throughout the development cycle. Passionate about content strategy and leveraging the power of documentation to advocate for the users.
+Hi - my name is Ragini (pronounced: RA-GHEE-NEE). I'm a technical writer with over a decade of experience in developing product documentation and training materials for SaaS applications. My expertise includes writing documentation for cloud applications, integration technologies, and REST and GraphQL APIs, using XML authoring tools in a DITA-based approach. I love learning about new products and technologies and thrive in a fast-paced environment. My passion lies in creating content that ssimplifies users' day-to-day jobs without running around looking for information. Let's connect and discuss how I can bring value to your team!
 
 ## Skills
 
-* Technical Writing
-* API Documentation
-* User Documentation
-* DITA
-* Oxygen XML Editor
-* Author It
-* Git
-* Swagger
-* Instructional Design
+Technical Writing, User Documentation, API Documentation, DITA, Oxygen XML Editor, Author It, Markdown, Git
