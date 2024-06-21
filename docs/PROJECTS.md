@@ -58,6 +58,7 @@ My contributions to the project include the following:
 * Collaborate with the API developmeny team to update the JSON file each release.
 * Review or update sample code.
 * Publish API reference information using the Swagger API.
+* 
 
 #### API Documentation for a Mock Service
 
@@ -68,10 +69,10 @@ My contributions to the project include the following:
 My projects included several API documentation artefacts, including Overview, Installation and QuickStart, API endpoint reference, and tutorials. Sample documentation from each category is listed below:
 
 **Powder Alert Service** 
-* Overview [https://raginimangla.github.io/ski-powder-alert-service/]
-* QuickStart/Get Started [https://raginimangla.github.io/ski-powder-alert-service/quick-start]
-* Endpoint Reference [https://raginimangla.github.io/ski-powder-alert-service/api/user-pa]
-* Tutorials [https://raginimangla.github.io/ski-powder-alert-service/tutorials/manage-alerts]
+* [Overview](https://raginimangla.github.io/ski-powder-alert-service/)
+* [QuickStart/Get Started]([https://raginimangla.github.io/ski-powder-alert-service/quick-start)
+* [Endpoint Reference](https://raginimangla.github.io/ski-powder-alert-service/api/user-pa)
+* [Tutorials]([https://raginimangla.github.io/ski-powder-alert-service/tutorials/manage-alerts])
 
 ### **Integration Documentation**
 
