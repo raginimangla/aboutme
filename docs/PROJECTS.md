@@ -43,7 +43,7 @@ My contributions to the project included the following:
 
 ### **API Documentation**
 
-#### Oracle Primavera Cloud REST API Documentation
+#### *Oracle Primavera Cloud REST API Documentation*
 
 **Context:** The API documentation for Primavera Cloud includes API references guides for REST and GraphQL APIs. It also includes Get Started content, which is  written and managed by the documentation writer. The API reference part of the guides is jointly owned and managed by the technical writer and the developers.
 
@@ -60,7 +60,7 @@ My contributions to the project include the following:
 * Publish API reference information using the Swagger API.
 * 
 
-#### API Documentation for a Mock Service
+#### *API Documentation for a Mock Service*
 
 **Context:** I recently completed a **certificate course in API Documentation from University of Washington, Seattle**. As part of the course, I worked on two mock API services:
 * **Powder Alert Service** - This service alerts ski enthusiasts to fresh "powder" (snow) at nearby mountain resorts.
